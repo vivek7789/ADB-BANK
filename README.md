@@ -1,6 +1,5 @@
 # ADB-BANK
-
-A banking system implementation using C++.
+banking system by using c-language
 
 ## Description
 
