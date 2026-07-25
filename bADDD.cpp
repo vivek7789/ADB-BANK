@@ -88,16 +88,8 @@ printf("succesfully completly the task");
 }
 fclose(fp);
 }
-void loan(){
-char name[20];
-int loan;
-printf("enter the details in the blanks which is related to loan\n ");
-FILE *fp;
-fp=fopen("loandetails.txt","a");
-printf( "enter the loan details\n");
-fprintf(fp," Name: %s, loan amount:%d",name, loan);
-fclose(fp);
-}
+
+
 void withdrawal(void){
 int accno,checkacc,found=0;
 char name[20];
