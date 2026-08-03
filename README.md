@@ -1,6 +1,6 @@
 # ADB-BANK
 banking system by using c-language
-
+details store like a database
 ## Description
 
 ADB-BANK is a comprehensive banking system project built with C++ that simulates core banking operations and functionality.
